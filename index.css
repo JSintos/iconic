@@ -1,0 +1,18 @@
+body {
+	background-color: #f1f1f1;
+	text-align: center;
+}
+
+.row {
+	display: block;
+}
+
+.square {
+	display: inline-block;
+	background-color: #fff;
+	height: 15px;
+	width: 15px;
+	border: 0.5px solid #212f3d;
+	border-radius: 3px;
+	margin: 1.75px 1.75px;
+}
